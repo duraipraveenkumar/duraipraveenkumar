@@ -3,7 +3,7 @@
 
 
 
-Hello there! I'm Praveen, a recent graduate from a software engineering BootCamp accredited by the University of Nottingham and Hyperiondev. Currently, I'm working as a Junior Data Analyst at the Traditional Music Foundation 🎵. With a background in Biomedical Sciences 🔬 and a passion for music 🎻, I bring a unique blend of skills and interests to the world of software engineering 💻.
+Hello there! I'm Durai Praveen Kumar, a recent graduate from a software engineering BootCamp accredited by the University of Nottingham and Hyperiondev. Currently, I'm working as a Junior Data Analyst at the Traditional Music Foundation 🎵. With a background in Biomedical Sciences 🔬 and a passion for music 🎻, I bring a unique blend of skills and interests to the world of software engineering 💻.
 
 **About This Repository**
 
