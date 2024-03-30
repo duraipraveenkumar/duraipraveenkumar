@@ -1,6 +1,6 @@
 Welcome to My GitHub Repository 🚀
 
-Hello there! I'm Durai Praveen Kumar. After graduating from a software engineering BootCamp accredited by the University of Nottingham and Hyperiondev, I've embarked on an exciting journey in data science. Currently, I'm enriching my skills with a Master's in Data Science and Analytics and working as a Junior Data Analyst at the Traditional Music Foundation 🎵. My diverse background, which spans Biomedical Sciences 🔬 and a deep-rooted passion for music 🎻, empowers me to bring a distinctive perspective to the data science and analytics field 💻.
+Hello there! I'm Durai Praveen Kumar. After graduating from a software engineering BootCamp accredited by the University of Nottingham and Hyperiondev, I've embarked on an exciting journey in data science. Currently, I'm enriching my skills with a Master's in Data Science and Analytics 🎵. My diverse background, which spans Biomedical Sciences 🔬 and a deep-rooted passion for music 🎻, empowers me to bring a distinctive perspective to the data science and analytics field 💻.
 
 About This Repository
 
